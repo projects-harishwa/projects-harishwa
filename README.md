@@ -1,16 +1,15 @@
-## Hi there 👋
+C:\Users\harishwa> Hi, I'm Harishwa, known by the pen name 'Envi'.
 
-<!--
-**projects-harishwa/projects-harishwa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+C:\Users\sarac> About Me
 
-Here are some ideas to get you started:
+C:\Users\sarac> Skillset
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+The following things are done by me:
+Web development / Editing / Animation / UI design / Sport / Games
+
+
+
+
+---
+
+Thanks for visiting my profile! 😊
