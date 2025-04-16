@@ -1,5 +1,5 @@
-![giphy](https://github.com/user-attachments/assets/d6f3e048-ad4a-4e4d-b785-fdd8c6083d06)
 
+![Glass_tesseract_animation](https://github.com/user-attachments/assets/1e472050-c4a9-4e47-b92e-ffc983b6ec5f)
 
 
 𝙲:\𝚐𝚒𝚝𝚑𝚞𝚋\𝚑𝚊𝚛𝚒𝚜𝚑𝚠𝚊> 𝗔𝗕𝗢𝗨𝗧 (𝙸 𝚊𝚖 𝙷𝚊𝚛𝚒𝚜𝚑𝚠𝚊 𝚠𝚑𝚘 𝚜𝚒𝚖𝚙𝚕𝚢 𝚕𝚘𝚟𝚎𝚜 𝚝𝚘 𝚌𝚘𝚍𝚎 𝚊𝚗𝚍 𝚜𝚘𝚕𝚟𝚎 𝚙𝚛𝚘𝚋𝚕𝚎𝚖𝚜...)
