@@ -1,3 +1,1 @@
-
-
-HTML, CSS, JS dev doing projects
+Engineering student enthusiastic about electronics and automation systems.
