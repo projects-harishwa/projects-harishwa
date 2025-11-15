@@ -1,5 +1,4 @@
-<h1>『HARISHWA 么 HERE <sup>👋</sup>』</h1> <img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/fa9fdb48-a331-46ea-9f86-68d5ecfddb32" />
- <br>
+<h2>『HARISHWA 么 HERE <sup>👋</sup>』</h2> <img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/fa9fdb48-a331-46ea-9f86-68d5ecfddb32" />
 
 Just an engineering student lookin' forward to work electronics and automation systems.
 
